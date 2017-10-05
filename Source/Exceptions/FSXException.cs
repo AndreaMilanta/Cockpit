@@ -33,7 +33,7 @@ namespace Cockpit.Source.Exceptions
             _sev = s;        
         }
 
-        public FSXFAILURE failure
+        public FSXFAILURE Failure
         {
             get 
             {

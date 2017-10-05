@@ -14,7 +14,7 @@ namespace Cockpit.Source.Exceptions
         /// <summary>
         /// severity of the exception
         /// </summary>
-        public SEVERITY severity
+        public SEVERITY Severity
         {
             get
             {

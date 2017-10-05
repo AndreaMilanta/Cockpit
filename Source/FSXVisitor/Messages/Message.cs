@@ -22,6 +22,6 @@ namespace Cockpit.Source.FSXVisitor.Messages
         }
 
         //Visitor Accept
-        public abstract void Execute(FSXVisitor visitor);    
+        //public abstract void Execute(FSXVisitor visitor);    
     }
 }

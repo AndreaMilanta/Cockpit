@@ -1,0 +1,11 @@
+D:\Git Projects\Cockpit\obj\x86\Debug\Cockpit.csprojResolveAssemblyReference.cache
+D:\Git Projects\Cockpit\obj\x86\Debug\Cockpit.Form1.resources
+D:\Git Projects\Cockpit\obj\x86\Debug\Cockpit.Properties.Resources.resources
+D:\Git Projects\Cockpit\obj\x86\Debug\Cockpit.csproj.GenerateResource.Cache
+D:\Git Projects\Cockpit\obj\x86\Debug\Cockpit.csproj.CoreCompileInputs.cache
+D:\Git Projects\Cockpit\bin\x86\Debug\Cockpit.exe.config
+D:\Git Projects\Cockpit\bin\x86\Debug\Cockpit.exe
+D:\Git Projects\Cockpit\bin\x86\Debug\Cockpit.pdb
+D:\Git Projects\Cockpit\bin\x86\Debug\Microsoft.FlightSimulator.SimConnect.dll
+D:\Git Projects\Cockpit\obj\x86\Debug\Cockpit.exe
+D:\Git Projects\Cockpit\obj\x86\Debug\Cockpit.pdb

@@ -17,9 +17,11 @@ namespace Cockpit.Source.FSXVisitor.Messages
         }
 
         //Visitor Accept
+        /*
         public override void Execute(FSXVisitor visitor)
         {
             visitor.visit(this);
         }
+        //*/
     }
 }
